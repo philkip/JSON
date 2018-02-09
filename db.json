@@ -1,6 +1,4 @@
-[
-  {
-    "accounts": [
+"accounts": [
       {
         "id": 1,
         "name": "nome",
@@ -12,5 +10,3 @@
         "pw": "asdad"
       }
     ]
-  }
-]
