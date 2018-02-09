@@ -15,5 +15,34 @@
       "username": "test3",
       "password": "123"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "accountID": 1,
+      "first_name": "Zeca",
+      "last_name": "Galo",
+      "contact": "+351000000000",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "id": 2,
+      "accountID": 2,
+      "first_name": "YEAH",
+      "last_name": "BOY",
+      "contact": "+351222222222",
+      "city": "Lisboa",
+      "country": "Portugal"
+    },
+    {
+      "id": 3,
+      "accountID": 3,
+      "first_name": "Antonio",
+      "last_name": "Passos",
+      "contact": "+351111111111",
+      "city": "Algarve",
+      "country": "Portugal"
+    }
   ]
 }
