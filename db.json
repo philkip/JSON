@@ -1,12 +1,10 @@
-["accounts": [
-      {
-        "id": 1,
-        "name": "nome",
-        "pw": "sdsd"
-      },
-      {
-        "id": 2,
-        "name": "nome1",
-        "pw": "asdad"
-      }
-    ]]
+{
+      "accounts":[
+            {
+                  "nome":"adasd"
+            },
+            {
+                  "nome":"asdasff"
+            }
+      ]
+}
