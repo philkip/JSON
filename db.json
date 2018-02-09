@@ -1,5 +1,5 @@
 {
-      "accounts":[
+      "accounts":{
             {
                   "accountID":1,
                   "username":"test",
@@ -10,5 +10,5 @@
                   "username":"test1",
                   "password":"123"
             }
-      ]
+      }
 }
