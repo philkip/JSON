@@ -3,12 +3,12 @@
             {
                   "accountID":1,
                   "username":"test",
-                  "password":"123",
+                  "password":"123"
             },
             {
                   "accountID":2,
                   "username":"test1",
-                  "password":"123",
+                  "password":"123"
             }
       ]
 }
