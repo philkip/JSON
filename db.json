@@ -1,4 +1,4 @@
-{"accounts": [
+["accounts": [
       {
         "id": 1,
         "name": "nome",
@@ -9,4 +9,4 @@
         "name": "nome1",
         "pw": "asdad"
       }
-    ]}
+    ]]
