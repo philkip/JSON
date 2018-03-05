@@ -1,48 +1,31 @@
 {
-  "accounts": [
+  "user": [
     {
       "id": 1,
-      "username": "test1",
-      "password": "123"
+      "username": "test",
+      "password": "test",
+      "email": "this@that.com",
+      "firstName": "Tester",
+      "lastName": "1",
+      "country": "Portugal"
     },
     {
       "id": 2,
-      "username": "test2",
-      "password": "123"
+      "username": "test1",
+      "password": "test",
+      "email": "this@that.com",
+      "firstName": "Tester",
+      "lastName": "2",
+      "country": "Spain"
     },
     {
       "id": 3,
-      "username": "test3",
-      "password": "123"
+      "username": "test2",
+      "password": "test",
+      "email": "this@that.com",
+      "firstName": "Tester",
+      "lastName": "3",
+      "country": "United Kingdom"
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "accountID": 1,
-      "first_name": "Zeca",
-      "last_name": "Galo",
-      "contact": "+351000000000",
-      "city": "Porto",
-      "country": "Portugal"
-    },
-    {
-      "id": 2,
-      "accountID": 2,
-      "first_name": "YEAH",
-      "last_name": "BOY",
-      "contact": "+351222222222",
-      "city": "Lisboa",
-      "country": "Portugal"
-    },
-    {
-      "id": 3,
-      "accountID": 3,
-      "first_name": "Antonio",
-      "last_name": "Passos",
-      "contact": "+351111111111",
-      "city": "Algarve",
-      "country": "Portugal"
-    }
-  ]
 }
